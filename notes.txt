@@ -1,0 +1,4 @@
+React has 2 things
+
+props -> read only properties
+states -> can be modified
